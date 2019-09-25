@@ -1,3 +1,5 @@
+# Projekt nr 5 - statystyki portow w switchach
+# Autorzy: Damian Klapczarek, Szymon Zieja
 from operator import attrgetter
 
 from ryu.controller import ofp_event
